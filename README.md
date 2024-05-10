@@ -67,4 +67,4 @@ Run: python manage.py runserver
 ## Test the API endpoints
 `
 You can now test the API endpoints using tools like Postman or cURL.
-For example, to create a new song, send a POST request to http://127.0.0.1:8000/api/songs/ with a JSON payload like {"name": "La Vie en Rose", "artist": "Edith Piaf", "release_year":
+For example, to create a new song, send a POST request to http://127.0.0.1:8000/music-api/songs/ with a JSON payload like {"name": "La Vie en Rose", "artist": "Edith Piaf", "release_year":
